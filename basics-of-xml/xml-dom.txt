@@ -1,0 +1,10 @@
+document object model(DOM):
+ xml dom nodes:
+ 
+ 1> the entire document is document node 
+
+ 2>every xml element is an element node 
+
+ 3>the text in xml element are text nodes
+
+ 4>every attributes in xml is attributes nodes 
